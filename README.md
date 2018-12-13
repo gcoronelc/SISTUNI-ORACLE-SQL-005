@@ -1,11 +1,11 @@
-![ORACLE SQL](https://raw.githubusercontent.com/gcoronelc/SISTUNI-ORACLE-SQL-005/master/img/oracle-sql-05.jpg)
+![ORACLE SQL](https://raw.githubusercontent.com/gcoronelc/SISTUNI-ORACLE-SQL-005/master/img/oracle-sql-05-2.jpg)
 
 
 # ORACLE SQL
 
 - Lugar: SistemasUNI
 - Horario: SABADO DE 08 A 14 HORAS
-- Inicio: 24-NOV-2018
+- Inicio: 15-DIC-2018
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Página: http://gcoronelc.blogspot.com/p/oracle.html
 - Código fuente: https://goo.gl/GRaOQg
