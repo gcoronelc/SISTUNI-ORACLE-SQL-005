@@ -9,7 +9,11 @@
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Página: http://gcoronelc.blogspot.com/p/oracle.html
 - Código fuente: https://goo.gl/GRaOQg
-- Video del Curso:  
+
+# VIDEOS DEL CURSO
+
+- Curso 01: https://bit.ly/2Bx0S8a
+- Curso 02: https://bit.ly/2AYMiac
 
 # DOCENTE
 
