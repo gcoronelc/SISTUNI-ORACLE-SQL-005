@@ -1,0 +1,8 @@
+-- PARTE 1
+-- =================================
+- Explicar un caso
+- Hacer su diseño de base de datos
+- Cargar datos de prueba
+- Elaborar 20 requerimientos y 
+  diseñar sus consultas
+  

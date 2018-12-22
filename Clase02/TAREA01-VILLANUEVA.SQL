@@ -1,0 +1,9 @@
+
+/* TAREA 1 
+
+SE NECESECTA UN LISTADO DE LOS EMPLEADOS 
+QUE LA SEGUNDA LETRA DE SU NOMBRE SEA A U O
+*/
+
+SELECT * FROM recursos.empleado
+WHERE nombre LIKE '_a%' OR nombre LIKE '_o%';
