@@ -9,6 +9,7 @@
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Página: http://gcoronelc.blogspot.com/p/oracle.html
 - Código fuente: https://goo.gl/GRaOQg
+- youtube: https://www.youtube.com/c/DesarrollaSoftware
 
 # VIDEOS DEL CURSO
 
