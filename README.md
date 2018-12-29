@@ -11,16 +11,33 @@
 - Código fuente: https://goo.gl/GRaOQg
 - youtube: https://www.youtube.com/c/DesarrollaSoftware
 
+
+
 # VIDEOS DEL CURSO
 
 - Curso 01: https://bit.ly/2Bx0S8a
 - Curso 02: https://bit.ly/2AYMiac
 
+
+
 # DOCENTE
 
 - Docente: Eric Gustavo Coronel Castillo
 - Blog: www.desarrollasoftware.com
+- Canal Youtube: https://bit.ly/2BWvikz
 - Correo: gcoronelc@gmail.com
+
+# MATERIAL DEL CURSO
+
+- Instalación de Oracle 11g R2: https://bit.ly/2CDfSmP
+- Esquema EUREKA: https://bit.ly/2ETbJNH
+- Herramientas de trabajo: https://bit.ly/2s1U1yZ
+- Consultas básicas: https://bit.ly/2ESaEF3
+- Esquemas en Oracle: https://bit.ly/2GXL7NF
+- Consultas básicas: https://bit.ly/2VgCsZB
+- Consultas a una tabla: https://bit.ly/2VhAPL1
+- Group By y Having: https://bit.ly/2QVt92Q
+- Gestión de datos con vistas: https://bit.ly/2CECPGg
 
 # LIBROS
 
@@ -80,9 +97,9 @@
 
 # VIDEOS
 
-- Instalación de Oracle XE 11g: https://www.youtube.com/watch?v=4Kt4fpwSNtY
-- Crear esquema EUREKA: https://www.youtube.com/watch?v=qOW90RXepUs
-- Seminario Cliente-Servidor 1: https://www.youtube.com/watch?v=GYElIVDR4Dk
-- Seminario Cliente-Servidor 2: https://www.youtube.com/watch?v=wB2wfk3YuxY
-- Seminario Cliente-Servidor 3: https://www.youtube.com/watch?v=cegT3-X1oa8
+- Instalación de Oracle XE 11g: https://www.youtube.com/watch?v=hXpPxlqVVUQ&t=3s
+- Crear esquema EUREKA: https://youtu.be/--KFiofXOjA
+- Seminario Cliente-Servidor 1: https://youtu.be/fpotRIyaTH4
+- Seminario Cliente-Servidor 2: https://youtu.be/pFKMMBzdRGY
+- Seminario Cliente-Servidor 3: https://youtu.be/J197QikZYB8
 - Videos de Oracle: https://www.youtube.com/watch?v=0MEcUu_hgBE&list=PLIRq7nByT7aSzE-6pEFHvcl-EsGOx0mPH
