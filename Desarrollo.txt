@@ -33,6 +33,9 @@ CLASE 03: 29.DIC.2018
 - Subconsultas
 - Modificacion de datos: INSERT
 
+- Revisar: 
+  http://gcoronelc.blogspot.com/2018/08/esquemas-en-oracle.html
+
 
 
 
