@@ -31,6 +31,9 @@ CLASE 03: 29.DIC.2018
 - Having
 - Multitablas
 - Subconsultas
+- Modificacion de datos
+
+
 
 
 

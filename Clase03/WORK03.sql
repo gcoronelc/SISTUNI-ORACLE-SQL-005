@@ -83,14 +83,29 @@ ON E.IDDEPARTAMENTO = V1.IDDEPARTAMENTO
 AND e.sueldo = V1.SUELDO_MAX;
 
 
+/*
+SUBCONSULTA CORRELACIONADA
+En la subconsulta se uriliza columnas de la consulta externa.
+*/
 
 
+SELECT e.*
+FROM recursos.empleado e
+WHERE e.SUELDO = (
+  SELECT MAX(x.SUELDO) SUELDO_MAX
+  FROM RECURSOS.EMPLEADO x
+  WHERE x.IDDEPARTAMENTO = e.IDDEPARTAMENTO
+);
 
 
-
-
-
-
+/*
+Tarea 05
+Realizar una consulta que muestre los empleados
+que su salario esta por debajo del salario
+promedio, según su puesto de trabajo.
+También se debe mostrar el salario promedio.
+Esquema RECURSOS.
+*/
 
 
 
