@@ -15,19 +15,15 @@ CLASE 01: 15.DIC.2018
 - Filtros: Operadores de Comparación
 - Filtros: Operadores Lógicos
 
+- Tarea 1: https://bit.ly/2VhAPL1
 
 
 CLASE 02: 22.DIC.2018
 =======================================
 - Otros Operadores
+- Funciones incorporadas
 - Grupos
-
-
-
-
-
-
-
+- Tarea 2: https://bit.ly/2QVt92Q
 
 
 

@@ -80,7 +80,7 @@ ORDER BY 1, 2;
 */
 
 
--- TAREA PARALLEL PARA LA CASA
+-- TAREA PARA LA CASA
 /*
 Crear una consulta que permita obtener
 los siguientes importes por curso:
