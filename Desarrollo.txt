@@ -26,6 +26,15 @@ CLASE 02: 22.DIC.2018
 - Tarea 2: https://bit.ly/2QVt92Q
 
 
+CLASE 03: 29.DIC.2018
+=======================================
+- Having
+- Multitablas
+- Subconsultas
+
+
+
+
 
 
 
