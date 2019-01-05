@@ -37,6 +37,13 @@ CLASE 03: 29.DIC.2018
   http://gcoronelc.blogspot.com/2018/08/esquemas-en-oracle.html
 
 
+CLASE 04: 12.DIC.2018
+=======================================
+- Modificacion de datos: UPDATE, DELETE
+- Transacciones
+
+
+
 
 
 
