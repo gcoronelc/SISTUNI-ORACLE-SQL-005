@@ -41,7 +41,8 @@ CLASE 04: 12.DIC.2018
 =======================================
 - Modificacion de datos: UPDATE, DELETE
 - Transacciones
-
+- Vistas
+- Esquemas
 
 
 
